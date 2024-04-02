@@ -1,1 +1,1 @@
-# bloom-filter-spell-checker
+# bloom filter spell checker
